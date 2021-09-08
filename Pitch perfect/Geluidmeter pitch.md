@@ -45,7 +45,11 @@ ___
 - Oefenen voor famillie
 - Steekwoorden
 
+## Overige notities
+
 ___
+
+# Pitch
 
 
 
