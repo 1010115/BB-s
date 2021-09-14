@@ -5,11 +5,10 @@
 Bibliotheek overhalen om mijn product aan te schaffen
 
 ## Publiek:
-Bibliotheek directie
+Dani en Luc
 
 ## Situatie: 
-Video voor Jan
-
+Live presentatie
 ___
 
 
@@ -45,7 +44,17 @@ ___
 - Oefenen voor famillie
 - Steekwoorden
 
-## Overige notities
+## Doelgroep
+
+- Pitch voor klasgenoten
+- Veel programmeer ervaring 
+- Cool product word verwacht
+
+## Doelstelling
+- Na mijn presentatie weet mijn publiek wat voor robot ik heb gemaakt voor CLE
+- Na mijn presentatie weet
+   
+
 
 ___
 
