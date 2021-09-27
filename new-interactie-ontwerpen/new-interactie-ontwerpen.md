@@ -41,5 +41,16 @@ Bij deze card sort was er dus een focus ophet verkopen van de service.
 ![final-hifi-sitemap.png](final-hifi-sitemap.png)
 Met alle info die ik heb verzameld van de tests is dit de hifi sitemap die ik heb gemaakt. Zo heb ik de behandelingen helemaal links gehouden en bijvoorbeeld het boeken van afspraken gezet onder contact. Als laatst heb ik de reviews en prevous workshops met elkaat gelinkt.
 
+## Wireframes
+![lofi mobile sitemap](mobile-lofi-sitemap.jpeg)
+![lofi web sitemap](web-lofi-sitemap.jpeg)
+Ik heb 2 low fi wireframes gemaakt voor de homepage. Eentje voor op de mobiel en één voor op een desktop. Daarna heb ik aanbevelingen gevraagd van een studie genoot ![feedback dani](feedback-dani.png)
+Met deze feedback in gedacht heb ik de hi fi wireframes gemaakt.
+![hifi mobile](mob-hifi-wireframe.png)
+![hifi web](web-hifi-wireframe.png)
+
+## Style guide
+![style-guide](Style-guide.png)
+Er was al een debriefing geweest met onze opdrachtgever uit deze debriefing heb ik gehaald dat ze een "gewone" tone of voice wilt gebruiken voor de website en ze wilde dat de kleuren mosgroen en lila in de site terugkomen. De site is vooral bedoeld voor het maken van een afspraak
 
 

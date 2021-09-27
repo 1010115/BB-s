@@ -2,13 +2,13 @@
 # Geluidmeter pitch
 --- 
 ## Doel: 
-Bibliotheek overhalen om mijn product aan te schaffen
+Jan overhalen om deze tool te gebruiken
 
 ## Publiek:
-Dani en Luc
+Jan
 
 ## Situatie: 
-Live presentatie
+Video
 ___
 
 
@@ -46,12 +46,11 @@ ___
 
 ## Doelgroep
 
-- Pitch voor klasgenoten
-- Veel programmeer ervaring 
-- Cool product word verwacht
+- Pitch voor Jan
+- Techfilo docent
 
 ## Doelstelling
-- Na mijn presentatie weet mijn publiek wat voor robot ik heb gemaakt voor CLE
+- Na mijn presentatie wilt mijn publiek 
 - Na mijn presentatie weet
    
 
