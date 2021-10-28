@@ -53,4 +53,5 @@ Met deze feedback in gedacht heb ik de hi fi wireframes gemaakt.
 ![style-guide](Style-guide.png)
 Er was al een debriefing geweest met onze opdrachtgever uit deze debriefing heb ik gehaald dat ze een "gewone" tone of voice wilt gebruiken voor de website en ze wilde dat de kleuren mosgroen en lila in de site terugkomen. De site is vooral bedoeld voor het maken van een afspraak
 
+## Debriefing
 
