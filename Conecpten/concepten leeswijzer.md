@@ -30,5 +30,6 @@ In de COCD-box zie je dat we met veel creatieve ideëen zijn gekomen die niet ha
 ## Concept poster
 Ik heb eerst een snelle schets gemaakt van de poster.
 ![poster schets](quick-postersketch.jpeg)
-
+En toen heb ik de poster uitgewerkt.
+![poster](poster.png)
 
