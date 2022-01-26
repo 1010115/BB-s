@@ -33,3 +33,4 @@ Ik heb eerst een snelle schets gemaakt van de poster.
 En toen heb ik de poster uitgewerkt.
 ![poster](poster.png)
 
+    
